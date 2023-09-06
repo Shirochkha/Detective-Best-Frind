@@ -1,0 +1,8 @@
+<dialogue name="Example">
+  <node id="0" npcText="Но кто же он?">
+    <answer text="жена" exit="True" />
+    <answer text="партнер" exit="True" />
+    <answer text="альберт" exit="True" />
+    <answer text="виктор" exit="True" />
+  </node>
+</dialogue>
